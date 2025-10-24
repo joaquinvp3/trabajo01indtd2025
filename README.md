@@ -46,6 +46,6 @@ El trabajo incluye dos problemas diseñados y resueltos por el estudiante, en lo
 ## ✍️ Autor
 
 **Joaquín Vidal**  
-Grado en Matemáticas y Estadística  
+Doble grado en Matemáticas y Estadística  
 Universidad de Sevilla  
 Curso 2025  
