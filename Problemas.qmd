@@ -9,7 +9,7 @@ format:
     toc: true
 ---
 
-# Configuración Inicial y Funciones
+### Configuración Inicial y Funciones
 
 Cargamos el archivo de funciones necesario para ejecutar todos los criterios de decisión bajo incertidumbre.
 
